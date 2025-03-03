@@ -153,11 +153,14 @@ main {
       ul {
         list-style: none;
         li {
+          span {
+            font-size: 1.8rem;
+            color: #875135;
+          }
           font-size: 1.6rem;
           margin-bottom: 0.5rem;
           font-style: italic;
           font-weight: 400;
-
         }
       }
     }
