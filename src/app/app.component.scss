@@ -210,6 +210,7 @@ main {
         display: inline-block;
         border-radius: 100%;
         width: 50px;
+        content: "";
         height: 50px;
         border: 1px solid white;
         &.palette1 {
